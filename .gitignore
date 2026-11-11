@@ -1,0 +1,9 @@
+# 数据集（无需提交）
+data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Jupyter 检查点
+.ipynb_checkpoints/
